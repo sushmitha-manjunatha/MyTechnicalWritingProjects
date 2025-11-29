@@ -1,1 +1,1 @@
-These are a few documents created by me showcasing my skills.
+This repository is a professional portfolio of technical writing samples, including user guides, how-to tutorials, and process documentation that demonstrate clear, audience-focused communication. Each document highlights practical skills in structure, tone, and usability for different target audiences; review individual files to see samples and notes on approach and tooling.
